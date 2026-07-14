@@ -795,12 +795,12 @@ body {
 <body>
   <main class="app-shell">
     <aside class="sidebar">
-      <div class="logo-row"><div class="logo-mark">LG</div><div class="logo-text">LGE</div></div>
-      <h2 class="side-title">Google 검색량 대시보드<br><span style="font-size:18px;opacity:.7;letter-spacing:-.03em;">Search Volume Dashboard</span></h2>
+      <div class="logo-row"><div class="logo-mark">LGE</div><div class="logo-text"></div>
+      <h2 class="side-title">Google Search Volume Report<br><span style="font-size:18px;opacity:.7;letter-spacing:-.03em;">Search Volume Dashboard</span></h2>
       <div class="period-pill">2026.01-05</div>
       <div class="side-kicker">Product</div>
       <nav class="side-nav">
-        <button class="nav-pill is-active" data-product="ac" type="button">에어컨 / Air Conditioner</button>
+        <button class="nav-pill is-active" data-product="ac" type="button">에어컨 / RAC</button>
         <button class="nav-pill" data-product="ap" type="button">공청기 / Air Purifier</button>
       </nav>
       <div class="side-kicker">Language</div>
@@ -811,7 +811,7 @@ body {
     </aside>
     <section class="content"><div class="content-inner">
       <div class="mobile-switcher">
-        <button class="nav-pill is-active" data-product="ac" type="button">에어컨 / Air Conditioner</button>
+        <button class="nav-pill is-active" data-product="ac" type="button">에어컨 / RAC</button>
         <button class="nav-pill" data-product="ap" type="button">공청기 / Air Purifier</button>
         <button class="lang-pill is-active" data-lang="ko" type="button" role="button">한국어</button>
         <button class="lang-pill" data-lang="en" type="button" role="button">English</button>
@@ -820,7 +820,6 @@ body {
 
 <section class="hero">
 <div class="hero-top">
-<div class="hero-badge">ES Dash-MATE · Marketing Analysis</div>
 <div class="hero-badge">LGE Internal Use Only</div>
 </div>
 <h1>Google 검색량 대시보드 5월 YTD 리포트</h1>
@@ -829,51 +828,48 @@ body {
 <span class="meta-chip">2026.01–05</span>
 <span class="meta-chip">1월~5월 누적</span>
 <span class="meta-chip">전년 동기 비교</span>
-<span class="meta-chip">Search Volume Trend</span>
 </div>
 </section>
 <article class="product-panel is-active" data-product="ac">
 <header class="product-header">
 <div>
-<div class="product-eyebrow">에어컨</div>
-<h2 class="product-title">에어컨 검색량 트렌드 리포트 1월~5월 누적 (전년 동기 비교)</h2>
+<h3 class="product-title">에어컨 검색량 리포트</h3>
 <section class="section-card" id="ac-global">
 <div class="section-head">
-<div class="section-kicker">Section 1</div>
-<div class="section-title">1. 글로벌 에어컨 검색량 트렌드</div>
+<div class="section-kicker">1. 글로벌 에어컨 검색량 트렌드</div>
+<div class="section-title">글로벌 26년 5월 누적 핵심 지표</div>
 </div>
 <div class="card-body">
-<div class="note-strip"><strong>글로벌</strong> · 26년 1~5월 누적 · YoY</div>
 <div class="metric-grid">
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">시장</div><div class="metric-dim">글로벌</div></div>
 <div class="metric-value">18,066,210</div>
 <div class="metric-yoy down"><span>YoY</span> Δ3.8%</div>
-<div class="metric-comment">에어컨에 대한 전체 시장의 검색 수요는 전년비 감소 (Δ3.8%)</div>
+<div class="metric-comment">에어컨 전체 시장 수요 전년비 감소 (Δ3.8%)</div>
 </article>
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">자사</div><div class="metric-dim">글로벌</div></div>
 <div class="metric-value">1,806,090</div>
 <div class="metric-yoy up"><span>YoY</span> 8.9%</div>
-<div class="metric-comment">자사에 대한 검색 수요는 일부 증가 (8.9%)</div>
+<div class="metric-comment">자사 검색량 전년비 증가 (8.9%)</div>
 </article>
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">경쟁사</div><div class="metric-dim">글로벌</div></div>
 <div class="metric-value">19,006,020</div>
 <div class="metric-yoy up"><span>YoY</span> 13.1%</div>
-<div class="metric-comment">경쟁사의 전년비는 자사 대비 더 큰 성장 (13.1%)</div>
+<div class="metric-comment">경쟁사 검색량 자사 대비 큰 폭 성장 (13.1%)</div>
 </article>
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">SOV</div><div class="metric-dim">글로벌</div></div>
 <div class="metric-value">8.7%</div>
 <div class="metric-yoy down"><span>YoY</span> 0.3%p↓</div>
-<div class="metric-comment">브랜드 키워드 검색에 대한 자사의 점유율 전년비 0.3%p 감소</div>
+<div class="metric-comment">브랜드 검색량 자사 점유율은 8.7%로 전년비 0.3%p 감소</div>
 </article></div></div>
 </section>
 <section class="section-card" id="ac-regional">
 <div class="section-head">
-<div class="section-kicker">Section 2</div>
-<div class="section-title">2. 지역별 에어컨 검색량 트렌드</div>
+<div class="section-kicker">2. 지역별 에어컨 검색량 트렌드</div>
+<div class="section-title">2. 지역별 26년 5월 누적 핵심 지표</div>
 </div>
 <div class="card-body">
 <div class="table-wrap">
@@ -885,8 +881,8 @@ body {
 </section>
 <section class="section-card" id="ac-brand">
 <div class="section-head">
-<div class="section-kicker">Section 3</div>
-<div class="section-title">3. 지역/브랜드별 검색량 SOV/순위 요약</div>
+<div class="section-kicker">3. 지역/브랜드별 에어컨 검색량</div>
+<div class="section-title">자사 및 경쟁사 SOV/순위 지표</div>
 </div>
 <div class="card-body">
 <div class="table-wrap">
@@ -900,33 +896,31 @@ body {
 <article class="product-panel" data-product="ap">
 <header class="product-header">
 <div>
-<div class="product-eyebrow">공청기</div>
-<h2 class="product-title">공청기 검색량 트렌드 리포트 1월~5월 누적 (전년 동기 비교)</h2>
+<h2 class="product-title">공청기 검색량 리포트</h2>
 <section class="section-card" id="ap-global">
 <div class="section-head">
-<div class="section-kicker">Section 1</div>
-<div class="section-title">1. 글로벌 공청기 검색량 트렌드</div>
+<div class="section-kicker">1. 글로벌 공청기 검색량 트렌드</div>
+<div class="section-title">글로벌 26년 5월 누적 핵심 지표</div>
 </div>
 <div class="card-body">
-<div class="note-strip"><strong>글로벌</strong> · 26년 1~5월 누적 · YoY</div>
 <div class="metric-grid">
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">시장</div><div class="metric-dim">글로벌</div></div>
 <div class="metric-value">8,248,270</div>
 <div class="metric-yoy down"><span>YoY</span> Δ7.8%</div>
-<div class="metric-comment">공청기에 대한 전체 시장의 검색 수요는 전년비 감소 (Δ7.8%)</div>
+<div class="metric-comment">공청기 전체 시장 수요 전년비 감소 (Δ7.8%)</div>
 </article>
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">자사</div><div class="metric-dim">글로벌</div></div>
 <div class="metric-value">221,200</div>
 <div class="metric-yoy down"><span>YoY</span> Δ9.5%</div>
-<div class="metric-comment">자사 역시 시장과 비슷한 트렌드로 하락 (Δ9.5%)</div>
+<div class="metric-comment">자사  시장과 비슷한 트렌드로 하락 (Δ9.5%)</div>
 </article>
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">경쟁사</div><div class="metric-dim">글로벌</div></div>
 <div class="metric-value">4,843,430</div>
 <div class="metric-yoy down"><span>YoY</span> Δ9.4%</div>
-<div class="metric-comment">경쟁사 또한 비슷한 트렌드로 하락 (Δ9.4%)</div>
+<div class="metric-comment">경쟁사 시장과 비슷한 트렌드로 하락 (Δ9.4%)</div>
 </article>
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">SOV</div><div class="metric-dim">글로벌</div></div>
@@ -937,8 +931,8 @@ body {
 </section>
 <section class="section-card" id="ap-regional">
 <div class="section-head">
-<div class="section-kicker">Section 2</div>
-<div class="section-title">2. 지역별 공청기 검색량 트렌드</div>
+<div class="section-kicker">2. 지역별 공청기 검색량 트렌드</div>
+<div class="section-title">지역별 26년 5월 누적 핵심 지표</div>
 </div>
 <div class="card-body">
 <div class="table-wrap">
@@ -950,8 +944,8 @@ body {
 </section>
 <section class="section-card" id="ap-brand">
 <div class="section-head">
-<div class="section-kicker">Section 3</div>
-<div class="section-title">3. 지역/브랜드별 검색량 SoV/순위 요약</div>
+<div class="section-kicker">3. 지역/브랜드별 공청기 검색량</div>
+<div class="section-title">자사 및 경쟁사 SOV/순위 지표</div>
 </div>
 <div class="card-body">
 <div class="table-wrap">
@@ -968,7 +962,6 @@ body {
 
 <section class="hero">
 <div class="hero-top">
-<div class="hero-badge">ES Dash-MATE · Marketing Analysis</div>
 <div class="hero-badge">LGE Internal Use Only</div>
 </div>
 <h1>Google Search Volume Dashboard May YTD Report</h1>
@@ -977,27 +970,24 @@ body {
 <span class="meta-chip">2026.01–05</span>
 <span class="meta-chip">Jan-May YTD</span>
 <span class="meta-chip">YoY Comparison</span>
-<span class="meta-chip">Search Volume Trend</span>
 </div>
 </section>
 <article class="product-panel is-active" data-product="ac">
 <header class="product-header">
 <div>
-<div class="product-eyebrow">Air Conditioner</div>
-<h2 class="product-title">Air Conditioner Search Volume Trend Report, Jan-May YTD (YoY Comparison)</h2>
+<h2 class="product-title">RAC Search Volume Report</h2>
 <section class="section-card" id="ac-global">
 <div class="section-head">
-<div class="section-kicker">Section 1</div>
-<div class="section-title">1. Global Air Conditioner Search Volume Trend</div>
+<div class="section-kicker">1. Global RAC Search Volume Trend</div>
+<div class="section-title">2026 May YTD Global Key Peformance</div>
 </div>
 <div class="card-body">
-<div class="note-strip"><strong>Global</strong> · '26 Jan-May YTD · YoY</div>
 <div class="metric-grid">
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">Market</div><div class="metric-dim">Global</div></div>
 <div class="metric-value">18,066,210</div>
 <div class="metric-yoy down"><span>YoY</span> Δ3.8%</div>
-<div class="metric-comment">Total market search demand for air conditioners declined YoY (Δ3.8%)</div>
+<div class="metric-comment">Total market search demand for RAC declined YoY (Δ3.8%)</div>
 </article>
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">Company</div><div class="metric-dim">Global</div></div>
@@ -1020,21 +1010,21 @@ body {
 </section>
 <section class="section-card" id="ac-regional">
 <div class="section-head">
-<div class="section-kicker">Section 2</div>
-<div class="section-title">2. Regional Air Conditioner Search Volume Trend</div>
+<div class="section-kicker">2. Regional RAC Search Volume Trend</div>
+<div class="section-title">2026 May YTD Regional Key Peformance</div>
 </div>
 <div class="card-body">
 <div class="table-wrap">
 <table class="report-table regional">
-<thead><tr><th>Region</th><th>'26 Market</th><th>YoY</th><th>'26 Company</th><th>YoY</th><th>'26 Competitors</th><th>YoY</th><th>Comment</th></tr></thead>
+<thead><tr><th>Region</th><th>'26 Market</th><th>YoY</th><th>'26 LG</th><th>YoY</th><th>'26 Competitors</th><th>YoY</th><th>Comment</th></tr></thead>
 <tbody><tr class=""><td class="label">Asia</td><td class="num">2,429,150</td><td class="num trend-down">Δ1.2%</td><td class="num">209,390</td><td class="num trend-down">Δ7.4%</td><td class="num">3,092,990</td><td class="num trend-down">Δ0.1%</td><td class="comment">Market (Δ1.2%) and competitors (Δ0.1%) were mostly flat, while LG was softer YoY (Δ7.4%)</td></tr><tr class=""><td class="label">Latin America</td><td class="num">5,863,420</td><td class="num trend-down">Δ28.2%</td><td class="num">185,130</td><td class="num trend-down">Δ27.4%</td><td class="num">608,680</td><td class="num trend-down">Δ18.3%</td><td class="comment">The market itself contracted significantly (Δ28.2%); recovery momentum is needed, and the gap between LG (Δ27.4%) and competitors (Δ18.3%) needs to narrow</td></tr><tr class=""><td class="label">Europe</td><td class="num">2,321,690</td><td class="num trend-up">22.6%</td><td class="num">74,950</td><td class="num trend-down">Δ5.7%</td><td class="num">851,930</td><td class="num trend-down">Δ8.3%</td><td class="comment">Weather drove higher demand for the overall market (22.6%), but brand-search conversion needs improvement for both LG (Δ5.7%) and competitors (Δ8.3%)</td></tr><tr class=""><td class="label">MEA</td><td class="num">1,061,350</td><td class="num trend-down">Δ12.9%</td><td class="num">98,070</td><td class="num trend-down">Δ14.8%</td><td class="num">1,311,650</td><td class="num trend-down">Δ17.8%</td><td class="comment">Market (Δ12.9%) and competitors (Δ17.8%) showed overall declines; LG also declined but defended slightly better than competitors (Δ14.8%)</td></tr><tr class=""><td class="label">India</td><td class="num">4,407,000</td><td class="num trend-up">47.1%</td><td class="num">1,095,400</td><td class="num trend-up">29.4%</td><td class="num">11,825,110</td><td class="num trend-up">28.1%</td><td class="comment">India delivered the largest growth and scale within global RAC search volume, with the market (47.1%), company (29.4%), and competitors (28.1%) all rising together</td></tr><tr class=""><td class="label">North America</td><td class="num">1,983,600</td><td class="num trend-down">Δ3.6%</td><td class="num">143,150</td><td class="num trend-up">5.1%</td><td class="num">1,315,660</td><td class="num trend-up">8.5%</td><td class="comment">The market contracted slightly (Δ3.6%), but company (5.1%) and competitor search volume (8.5%) both increased; gap management versus competitors is needed</td></tr></tbody>
 </table>
 </div></div>
 </section>
 <section class="section-card" id="ac-brand">
 <div class="section-head">
-<div class="section-kicker">Section 3</div>
-<div class="section-title">3. Regional/Brand Search Volume SOV/Ranking Summary</div>
+<div class="section-kicker">3. Regional/Brand RAC Search Volume</div>
+<div class="section-title">LG vs Competitors SOV/Ranking</div>
 </div>
 <div class="card-body">
 <div class="table-wrap">
@@ -1048,15 +1038,13 @@ body {
 <article class="product-panel" data-product="ap">
 <header class="product-header">
 <div>
-<div class="product-eyebrow">Air Purifier</div>
-<h2 class="product-title">Air Purifier Search Volume Trend Report, Jan-May YTD (YoY Comparison)</h2>
+<h2 class="product-title">Air Purifier Search Volume Report</h2>
 <section class="section-card" id="ap-global">
 <div class="section-head">
-<div class="section-kicker">Section 1</div>
-<div class="section-title">1. Global Air Purifier Search Volume Trend</div>
+<div class="section-kicker">1. Global Air Purifier Search Volume Trend</div>
+<div class="section-title">2026 May YTD Global Key Peformance</div>
 </div>
 <div class="card-body">
-<div class="note-strip"><strong>Global</strong> · '26 Jan-May YTD · YoY</div>
 <div class="metric-grid">
 <article class="metric-card">
 <div class="metric-top"><div class="metric-label">Market</div><div class="metric-dim">Global</div></div>
@@ -1085,21 +1073,21 @@ body {
 </section>
 <section class="section-card" id="ap-regional">
 <div class="section-head">
-<div class="section-kicker">Section 2</div>
-<div class="section-title">2. Regional Air Purifier Search Volume Trend</div>
+<div class="section-kicker">2. Regional Air Purifier Search Volume Trend</div>
+<div class="section-title">2026 May YTD Regional Key Peformance</div>
 </div>
 <div class="card-body">
 <div class="table-wrap">
 <table class="report-table regional">
-<thead><tr><th>Region</th><th>'26 Market</th><th>YoY</th><th>'26 Company</th><th>YoY</th><th>'26 Competitors</th><th>YoY</th><th>Comment</th></tr></thead>
+<thead><tr><th>Region</th><th>'26 Market</th><th>YoY</th><th>'26 LG</th><th>YoY</th><th>'26 Competitors</th><th>YoY</th><th>Comment</th></tr></thead>
 <tbody><tr class=""><td class="label">Asia</td><td class="num">6,512,770</td><td class="num trend-down">Δ7.2%</td><td class="num">213,150</td><td class="num trend-down">Δ7.3%</td><td class="num">3,063,110</td><td class="num trend-down">Δ13.2%</td><td class="comment">Overall market demand declined (Δ7.2%), but LG (Δ7.3%) defended the decline better than competitors (Δ13.2%)</td></tr><tr class=""><td class="label">North America</td><td class="num">1,735,500</td><td class="num trend-down">Δ10.0%</td><td class="num">8,050</td><td class="num trend-down">Δ44.3%</td><td class="num">1,780,320</td><td class="num trend-down">Δ2.0%</td><td class="comment">Search-volume scale versus the overall market and YoY improvement are needed</td></tr></tbody>
 </table>
 </div></div>
 </section>
 <section class="section-card" id="ap-brand">
 <div class="section-head">
-<div class="section-kicker">Section 3</div>
-<div class="section-title">3. Regional/Brand Search Volume SoV/Ranking Summary</div>
+<div class="section-kicker">3. Regional/Brand Air Purifier Search Volume</div>
+<div class="section-title">LG vs Competitors SOV/Ranking</div>
 </div>
 <div class="card-body">
 <div class="table-wrap">
